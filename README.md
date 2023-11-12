@@ -12,6 +12,10 @@ REV 4 has 2 copper plated holes for the trackball support mount on the PCB which
 
 ![IMG_0191](https://github.com/protieusz/OmegaSupreme/assets/118025702/f333bb38-0cb5-41f5-b209-4b4d953910af)
 
+![IMG_0192](https://github.com/protieusz/OmegaSupreme/assets/118025702/d9a2a37a-a12e-4871-9467-40836265af1f)
+
+![IMG_0190](https://github.com/protieusz/OmegaSupreme/assets/118025702/96943a52-82a4-4b0c-ab9f-b3ada77fea8c)
+
 
 
 REV 4 render. I don't have funds to print anymore.
