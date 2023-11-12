@@ -6,9 +6,13 @@ Update: Nov 12, 2023. Currently there are 2 versions of Omega Supreme. The Rev 4
 
 REV 4 has 2 copper plated holes for the trackball support mount on the PCB which was missed during REV 1 print.  This PCB picture is REV1 without the corrected copper plated mount holes.
 
-![IMG_0315](https://github.com/protieusz/OmegaSupreme/assets/118025702/92c58c80-3ce5-492c-9fa7-e0b9973bd729)
+![IMG_0183](https://github.com/protieusz/OmegaSupreme/assets/118025702/997ba5ab-78ea-4e53-a9d4-407494ee46b1)
 
-![IMG_0314](https://github.com/protieusz/OmegaSupreme/assets/118025702/03a76464-e08b-47f4-864d-a035cfa590e9)
+![IMG_0182](https://github.com/protieusz/OmegaSupreme/assets/118025702/03d9b50e-256e-4b01-878c-b4d6c3d58da9)
+
+![IMG_0191](https://github.com/protieusz/OmegaSupreme/assets/118025702/f333bb38-0cb5-41f5-b209-4b4d953910af)
+
+
 
 REV 4 render. I don't have funds to print anymore.
 
