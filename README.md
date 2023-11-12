@@ -1,8 +1,20 @@
 # OmegaSupreme
-RP2040 integrated components with integrated PMW3360 trackball sensor &amp; PER56 encoder. The RP2040 pins are fully broken out into either pads or ribbon connections. Design this for convienience and easier to design a keyboard pcb around the OmegaSupreme itself.
+RP2040 integrated components with integrated PMW3360 trackball sensor &amp; PER56 encoder. The OmegaSupreme is inspired by Ariamelon's Kiwano VIK module and jfedor2's RP2040 and PMW3660 module. The RP2040 pins are fully broken out into either pads or ribbon connections. Design this for convienience and easier to design a keyboard pcb around the OmegaSupreme itself.
 Current on print by JLCPCB. Cost is a little bit on the pricey side. Around $89 CAD with shipping included. SK6812 mini e was omitted from the assembly to keep the cost down.  Part of the reason behind being pricey was the use of 3 extended parts i.e. 2 ribbon connectors and 1 JSH connector. Gerber files will be posted once I tested it. As always print at your "OWN RISK".  I do not offer support. You can feel free to modify it as long as you credit me. Thanks.
 
-Update: Nov 12, 2023. Currently there are 2 versions of Omega Supreme. The Rev 1 with all the extended connectors and a USB C version that does not require a USB C daughterboard card. I printed both versions and I find that Rev 1 is very annoying since it needs a USB C daughterboard card.  Nowadays, the reliability of PCBA and PCB printing from China factories are not that good if you are doing small 5 PCBs prototyping.  In my experience PCBA can be hit and miss.  Even the USB C daughterboard card can be a miss also.  So in order to eliminate headaches, I use the Omega Supreme USB C version where everything is in one place. Easier to diagnostic if shit goes south.
+Update: Nov 12, 2023. Currently there are 2 versions of Omega Supreme. The Rev 4 with all the extended connectors and a USB C version that does not require a USB C daughterboard card. I printed both versions and I find that Rev 1 is very annoying since it needs a USB C daughterboard card.  Nowadays, the reliability of PCBA and PCB printing from China factories are not that good if you are doing small 5 PCBs prototyping.  In my experience PCBA can be hit and miss.  Even the USB C daughterboard card can be a miss also.  So in order to eliminate headaches, I use the Omega Supreme USB C version where everything is in one place. Easier to diagnostic if shit goes south.
+
+REV 4 has 2 copper plated holes for the trackball support mount on the PCB which was missed during REV 1 print.  This PCB picture is REV1 without the corrected copper plated mount holes.
+
+![IMG_0315](https://github.com/protieusz/OmegaSupreme/assets/118025702/92c58c80-3ce5-492c-9fa7-e0b9973bd729)
+
+![IMG_0314](https://github.com/protieusz/OmegaSupreme/assets/118025702/03a76464-e08b-47f4-864d-a035cfa590e9)
+
+REV 4 render. I don't have funds to print anymore.
+
+![Screenshot 2023-11-12 at 9 12 45 AM](https://github.com/protieusz/OmegaSupreme/assets/118025702/21dfda4e-f5e1-4ab0-b2c0-a94e89a5aad7)
+
+![Screenshot 2023-11-12 at 9 12 57 AM](https://github.com/protieusz/OmegaSupreme/assets/118025702/ae3edb7b-2735-49e8-b767-62c7dba4001c)
 
 
 REV 1
