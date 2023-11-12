@@ -4,6 +4,21 @@ Current on print by JLCPCB. Cost is a little bit on the pricey side. Around $89 
 
 Update: Nov 12, 2023. Currently there are 2 versions of Omega Supreme. The Rev 4 with all the extended connectors and a USB C version that does not require a USB C daughterboard card. I printed both versions and I find that Rev 1 is very annoying since it needs a USB C daughterboard card.  Nowadays, the reliability of PCBA and PCB printing from China factories are not that good if you are doing small 5 PCBs prototyping.  In my experience PCBA can be hit and miss.  Even the USB C daughterboard card can be a miss also.  So in order to eliminate headaches, I use the Omega Supreme USB C version where everything is in one place. Easier to diagnostic if shit goes south.
 
+Extra BOMs:
+
+[PMW3360 Sensor for trackball](https://www.aliexpress.com/item/1005005355003386.html?spm=a2g0o.order_list.order_list_main.23.31a51802RLpcrc)
+
+[M3 3mm standoffs](https://www.aliexpress.com/item/1005004127890102.html?spm=a2g0o.order_list.order_list_main.60.31a51802RLpcrc)
+
+[M3 8mm screw, buy 6mm just in case](https://www.aliexpress.com/item/1005003733948224.html?spm=a2g0o.order_list.order_list_main.41.31a51802RLpcrc)
+
+[MJ311 or MJ310 steel or ceramic ball bearings for the trackball support holder unit. Steel is slightly noisy and scratchy compared to ceramic. Test it out on your own](https://www.aliexpress.com/item/1005005334424631.html?spm=a2g0o.order_list.order_list_main.66.31a51802RLpcrc)
+
+[RGBs SK6812](https://www.aliexpress.com/item/1005003636607308.html?spm=a2g0o.order_list.order_list_main.5.31a51802RLpcrc)
+
+[Reset & Boot switches](https://www.aliexpress.com/item/4001317902663.html?spm=a2g0o.order_list.order_list_main.240.31a51802RLpcrc)
+
+
 REV 4 has 2 copper plated holes for the trackball support mount on the PCB which was missed during REV 1 print.  This PCB picture is REV1 without the corrected copper plated mount holes.
 
 ![IMG_0183](https://github.com/protieusz/OmegaSupreme/assets/118025702/997ba5ab-78ea-4e53-a9d4-407494ee46b1)
