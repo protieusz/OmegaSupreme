@@ -14,6 +14,9 @@ REV 4 has 2 copper plated holes for the trackball support mount on the PCB which
 
 ![IMG_0192](https://github.com/protieusz/OmegaSupreme/assets/118025702/d9a2a37a-a12e-4871-9467-40836265af1f)
 
+
+D- and D+ pins are switched so when you attach your usb c daughterboard card, please be caution.
+
 ![IMG_0190](https://github.com/protieusz/OmegaSupreme/assets/118025702/96943a52-82a4-4b0c-ab9f-b3ada77fea8c)
 
 
