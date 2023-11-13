@@ -2,7 +2,7 @@
 RP2040 integrated components with integrated PMW3360 trackball sensor &amp; PER56 encoder. The OmegaSupreme is inspired by Ariamelon's Kiwano VIK module and jfedor2's RP2040 and PMW3660 module. The RP2040 pins are fully broken out into either pads or ribbon connections. Design this for convienience and easier to design a keyboard pcb around the OmegaSupreme itself.
 Current on print by JLCPCB. Cost is a little bit on the pricey side. Around $89 CAD with shipping included. SK6812 mini e was omitted from the assembly to keep the cost down.  Part of the reason behind being pricey was the use of 3 extended parts i.e. 2 ribbon connectors and 1 JSH connector.  [Gerber](https://github.com/protieusz/OmegaSupreme/tree/main/OmegaSupremeRev4) files will be posted once I tested it. As always print at your "OWN RISK".  I do not offer support. You can feel free to modify it as long as you credit me. Thanks.
 
-# Note: Currently there are 2 versions of Omega Supreme. OmegaSupreme USB C & [Non USB C Version using a C3 Unified USB C Daughterboard card](https://42keebs.eu/shop/parts/unified-daughterboard-c3-c4/?attribute_version=C3)
+# Note: Currently there are 2 versions of Omega Supreme. OmegaSupreme USB C & Non USB C Version using a C3 Unified USB C Daughterboard card
 
 # Update: Nov 13, 2023: OmegaSupreme USB Version.
 Uploaded OmegaSupreme USB Version files. This is my preferred OmegaSupreme version. This version's production file will include a converted json file from EasyEDA to KiCad pcb file.  Please print and assembly at your own risk. I have the PCBs printed and tested so it works. No support will be given. Please follow the license when you modify, use, etc. Thanks.
@@ -11,6 +11,7 @@ Uploaded OmegaSupreme USB Version files. This is my preferred OmegaSupreme versi
 
 [PMW3360 Sensor for trackball](https://www.aliexpress.com/item/1005005355003386.html?spm=a2g0o.order_list.order_list_main.23.31a51802RLpcrc)
 
+[C3 Unified USB C Daughterboard card](https://42keebs.eu/shop/parts/unified-daughterboard-c3-c4/?attribute_version=C3)
 [M3 3mm standoffs](https://www.aliexpress.com/item/1005004127890102.html?spm=a2g0o.order_list.order_list_main.60.31a51802RLpcrc)
 
 [M3 8mm screw, buy 6mm just in case](https://www.aliexpress.com/item/1005003733948224.html?spm=a2g0o.order_list.order_list_main.41.31a51802RLpcrc)
