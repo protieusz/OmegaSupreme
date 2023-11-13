@@ -5,17 +5,6 @@ Current on print by JLCPCB. Cost is a little bit on the pricey side. Around $89 
 # Update: Nov 13, 2023: OmegaSupreme USB Version.
 Uploaded OmegaSupreme USB Version files. This is my preferred OmegaSupreme version. This version's production file will include a converted json file from EasyEDA to KiCad pcb file.  Please print and assembly at your own risk. I have the PCBs printed and tested so it works. No support will be given. Please follow the license when you modify, use, etc. Thanks.
 
-# OmegaSupreme USB Version Final Pics:
-
-Back Side
-![IMG_0315](https://github.com/protieusz/OmegaSupreme/assets/118025702/6a4732ec-f716-4b29-b402-3ed3624cf6a6)
-
-Front & Back Side
-![IMG_0314](https://github.com/protieusz/OmegaSupreme/assets/118025702/0b37fde8-24fb-47a5-8771-490657f145b7)
-
-# Update: Nov 12, 2023. 
-Currently there are 2 versions of Omega Supreme. The Rev 4 with all the extended connectors and a USB C version that does not require a USB C daughterboard card. I printed both versions and I find that Rev 1 is very annoying since it needs a USB C daughterboard card.  Nowadays, the reliability of PCBA and PCB printing from China factories are not that good if you are doing small 5 PCBs prototyping.  In my experience PCBA can be hit and miss.  Even the USB C daughterboard card can be a miss also.  So in order to eliminate headaches, I use the Omega Supreme USB C version where everything is in one place. Easier to diagnostic if shit goes south.
-
 # Extra BOMs:
 
 [PMW3360 Sensor for trackball](https://www.aliexpress.com/item/1005005355003386.html?spm=a2g0o.order_list.order_list_main.23.31a51802RLpcrc)
@@ -30,6 +19,16 @@ Currently there are 2 versions of Omega Supreme. The Rev 4 with all the extended
 
 [Reset & Boot switches](https://www.aliexpress.com/item/4001317902663.html?spm=a2g0o.order_list.order_list_main.240.31a51802RLpcrc)
 
+# OmegaSupreme USB Version Final Pics:
+
+Back Side
+![IMG_0315](https://github.com/protieusz/OmegaSupreme/assets/118025702/6a4732ec-f716-4b29-b402-3ed3624cf6a6)
+
+Front & Back Side
+![IMG_0314](https://github.com/protieusz/OmegaSupreme/assets/118025702/0b37fde8-24fb-47a5-8771-490657f145b7)
+
+# Update: Nov 12, 2023. 
+Currently there are 2 versions of Omega Supreme. The Rev 4 with all the extended connectors and a USB C version that does not require a USB C daughterboard card. I printed both versions and I find that Rev 1 is very annoying since it needs a USB C daughterboard card.  Nowadays, the reliability of PCBA and PCB printing from China factories are not that good if you are doing small 5 PCBs prototyping.  In my experience PCBA can be hit and miss.  Even the USB C daughterboard card can be a miss also.  So in order to eliminate headaches, I use the Omega Supreme USB C version where everything is in one place. Easier to diagnostic if shit goes south.
 
 # REV 4 has 2 copper plated holes for the trackball support mount on the PCB which was missed during REV 1 print.  This PCB picture is REV1 without the corrected copper plated mount holes.
 
