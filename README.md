@@ -12,6 +12,7 @@ Uploaded OmegaSupreme USB Version files. This is my preferred OmegaSupreme versi
 [PMW3360 Sensor for trackball](https://www.aliexpress.com/item/1005005355003386.html?spm=a2g0o.order_list.order_list_main.23.31a51802RLpcrc)
 
 [C3 Unified USB C Daughterboard card](https://42keebs.eu/shop/parts/unified-daughterboard-c3-c4/?attribute_version=C3)
+
 [M3 3mm standoffs](https://www.aliexpress.com/item/1005004127890102.html?spm=a2g0o.order_list.order_list_main.60.31a51802RLpcrc)
 
 [M3 8mm screw, buy 6mm just in case](https://www.aliexpress.com/item/1005003733948224.html?spm=a2g0o.order_list.order_list_main.41.31a51802RLpcrc)
