@@ -17,7 +17,7 @@ Uploaded OmegaSupreme USB Version files. This is my preferred OmegaSupreme versi
 
 4 [M3 8mm screw, buy 6mm just in case](https://www.aliexpress.com/item/1005003733948224.html?spm=a2g0o.order_list.order_list_main.41.31a51802RLpcrc)
 
-5 [MJ311 or MJ310 steel or ceramic ball bearings for the trackball support holder unit. Steel is slightly noisy and scratchy compared to ceramic. Test  it out on your own](https://www.aliexpress.com/item/1005005334424631.html?spm=a2g0o.order_list.order_list_main.66.31a51802RLpcrc)
+5 [MJ311 or MJ310 steel or ceramic ball bearings for the trackball support holder unit. Steel is slightly noisy and scratchy compared to ceramic. Test it out on your own](https://www.aliexpress.com/item/1005005334424631.html?spm=a2g0o.order_list.order_list_main.66.31a51802RLpcrc)
 
 6 [RGBs SK6812](https://www.aliexpress.com/item/1005003636607308.html?spm=a2g0o.order_list.order_list_main.5.31a51802RLpcrc)
 
