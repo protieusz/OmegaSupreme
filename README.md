@@ -4,6 +4,8 @@ Current on print by JLCPCB. Cost is a little bit on the pricey side. Around $89 
 
 # Note: Currently there are 2 versions of Omega Supreme. OmegaSupreme USB C & Non USB C Version using a C3 Unified USB C Daughterboard card
 
+# OmegaSupreme got mentioned on https://kbd.news/Starship-Bubu-OmegaSupreme-2184.html
+
 # Update: Nov 13, 2023: OmegaSupreme USB Version.
 Uploaded OmegaSupreme USB Version files. This is my preferred OmegaSupreme version. This version's production file will include a converted json file from EasyEDA to KiCad pcb file.  Please print and assembly at your own risk. I have the PCBs printed and tested so it works. No support will be given. Please follow the license when you modify, use, etc. Thanks.
 
